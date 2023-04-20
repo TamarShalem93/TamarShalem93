@@ -1,1 +1,2 @@
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+<h1>Hey There!</h1>
+<p>Hey there! I'm a Full-stack/ Frontend developer, and I'm currently on the hunt for my big break in the industry! Bring on the challenges, the coding puzzles, and the opportunities to innovate and make a real difference in the digital world. So, Let's connect and make some amazing things happen!</p>
