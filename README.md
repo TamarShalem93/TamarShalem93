@@ -10,4 +10,4 @@
 <h2>Let's Talk</h2>
   
 <a href="mailto:stamar46@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Tamar Shalem | Email"/></a>
-<a href="www.linkedin.com/in/tamar-shalem93"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tamar Shalem | LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/tamar-shalem93"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tamar Shalem | LinkedIn" /></a>
